@@ -1,4 +1,7 @@
 # ApertusVR
+
+[![Join the chat at https://gitter.im/ApertusVR/Lobby](https://badges.gitter.im/ApertusVR/Lobby.svg)](https://gitter.im/ApertusVR/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Free virtual and augmented reality engine
 [apertusvr.org](http://www.apertusvr.org)
 
